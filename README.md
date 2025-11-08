@@ -68,17 +68,13 @@ This system ensures better organization, less manual tracking, and an automated 
 - Docker Desktop  
 - (Optional) Jenkins for CI/CD
 
+- docker-compose up -d
+
 ### ▶️ Steps
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/Bayremboussaidi/global.git
-cd global
+> ⚠️ **Note:** This code is private and intended for local/internal company use only.  
+> ❌ Sorry, it is **forbidden to clone or download the code**.  
+> You can still explore the project through this README and screenshots.
 
-# 2. Start all services
-docker-compose up -d
 
-# 3. Access the app
-Frontend → http://localhost:4200  
-Backend  → http://localhost:3000
  
