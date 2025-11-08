@@ -7,7 +7,7 @@
 ## 🖼️ Dashboard Preview
 Here’s a quick look at the main dashboard of **GLOBAL ENR** 👇
 
-![Dashboard Screenshot](screenshots/dashboard.PNG)
+![Dashboard Screenshot](dashboard.PNG)
 
 ---
 
